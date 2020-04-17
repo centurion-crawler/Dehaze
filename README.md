@@ -25,7 +25,7 @@
 
 去雾的评价标准：\
 [PSNR](https://baike.baidu.com/item/psnr/2925132?fr=aladdin)\
-[SSIM]([https://baike.baidu.com/item/SSIM])\
+[SSIM](https://baike.baidu.com/item/SSIM)\
 传统及早期的深度学习算法就不推荐大家阅读论文原文了，通过大量阅读博客快速了解就够了，主要是为了大家快速入门深度学习以及快速了解去雾任务是什么、怎么做。
 关于深度学习的基础，西瓜书、吴恩达以及一些博客，边进行任务的时候边感受一下这个知识，会理解得更快。
 ## 后续
