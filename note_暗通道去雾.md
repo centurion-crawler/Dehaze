@@ -21,7 +21,7 @@ I(x)：现有图像(待去雾)，J(X)要恢复的图像，A是大气光成分，
 
 实际情况修正：$\hat{t}(x)=1-\omega\min \limits_{y\in\Omega(x)}(\min \limits_{c \in\{r,g,b\}}\frac{J^c(y)}{A^C}),\omega\in[0,1]$
 
-A[全球大气光](https://blog.csdn.net/allen1880/article/details/38795417)
+A[全球大气光](https://blog.csdn.net/yinhou1771/article/details/81070803)
 
 $J(x)=(I(x)-A)/t(x)+A$\
 $J(x)=\frac{(I(x)-A)}{max(t(x),t_0)}+A$,设置$t_0$限制，防止某些地方过曝
