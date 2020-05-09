@@ -1,4 +1,4 @@
-picture=imread("E:\learning\program\github\Dehaze\images\SOTS\outdoor\mytest_A\0001_0.8_0.2.jpg");
+picture=imread("E:\learning\program\github\Dehazeimages\SOTS\outdoor\mytest_A\0001_0.8_0.2.jpg");
 out=dehaze(picture);
 function y = dehaze(haze_img)
 % 去雾函数: 根据输入雾图矩阵进行去雾，返回去雾后的图片矩�?
